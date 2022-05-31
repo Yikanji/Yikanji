@@ -1,6 +1,6 @@
 ### Hello World! 👋👋
 
-I'm yikanji, a undergraduate student in Software Engineering at ![Xinjiang University](http://ss.xju.edu.cn/)  **yikanji/yikanji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm yikanji, a undergraduate student in Software Engineering at [Xinjiang University](http://ss.xju.edu.cn/)  **yikanji/yikanji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
