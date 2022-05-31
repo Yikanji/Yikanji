@@ -1,8 +1,8 @@
 ### Hello World! 👋👋
 
-I'm yikanji, a undergraduate student in Software Engineering at [Xinjiang University](http://ss.xju.edu.cn/)  **yikanji/yikanji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm yikanji, a undergraduate student in Software Engineering at _[Xinjiang University](http://ss.xju.edu.cn/)_.
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
+- ⚡ Fun fact: ... -->
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yikanji&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yikanji&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
