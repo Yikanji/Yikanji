@@ -15,4 +15,4 @@ I'm Yikanji, an undergraduate student in Software Engineering at _[Xinjiang Univ
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yikanji&show_icons=true&theme=radical)](https://github.com/yikanji)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yikanji&layout=compact&show_icons=true&theme=radical)](https://github.com/yikanji)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yikanji&layout=compact&show_icons=true&theme=radical&langs_count=10)](https://github.com/yikanji)
