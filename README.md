@@ -1,6 +1,6 @@
 ### Hello World! 👋👋
 
-I'm Yikanji, an undergraduate student in Software Engineering at _[Xinjiang University](http://ss.xju.edu.cn/)_.
+I'm Yikanji, an undergraduate student in Software Engineering at _[Xinjiang University](http://ss.xju.edu.cn/)_, and I once studied in _[Central South University]([http://ss.xju.edu.cn/](https://cse.csu.edu.cn/))_ as an exchange student
 
 <!-- Here are some ideas to get you started:
 
