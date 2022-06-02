@@ -2,6 +2,8 @@
 
 I'm Yikanji, an undergraduate student in Software Engineering at _[Xinjiang University](http://ss.xju.edu.cn/)_, and I once studied in _[Central South University](https://cse.csu.edu.cn/)_ as an exchange student.
 
+Currently I am interested in NLP, especially Text Generation, but any field of computing for me is fascinating!
+
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
