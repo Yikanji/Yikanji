@@ -1,8 +1,6 @@
 ### Hello World! I'm Yikanji! 👋👋
 
-嗨！ I'm an undergraduate student in _[Xinjiang University](http://ss.xju.edu.cn/)_, and I once studied in _[Central South University](https://cse.csu.edu.cn/)_ as an exchange student.
-
-Currently I am interested in NLP, especially Text Generation, but any field of computing for me is fascinating!
+嗨！ I'm an undergraduate student in _[Xinjiang University](http://ss.xju.edu.cn/)_, and I once went to_[Central South University](https://cse.csu.edu.cn/)_ as an exchange student.
 
 <!-- Here are some ideas to get you started:
 
