@@ -1,6 +1,6 @@
 ### Hello World! I'm Yikanji! 👋👋
 
-嗨！ I'm an undergraduate student in _[Xinjiang University](http://ss.xju.edu.cn/)_, and I once went to _[Central South University](https://cse.csu.edu.cn/)_ as an exchange student.
+嗨！ I am a graduate from _[Xinjiang University](http://ss.xju.edu.cn/)_, and I once went to _[Central South University](https://cse.csu.edu.cn/)_ as an exchange student. Now, I am a master's degree candidate at _[ISCAS](https://cse.csu.edu.cn/)_ under _[UCAS](https://www.ucas.ac.cn)_.
 
 <!-- Here are some ideas to get you started:
 
